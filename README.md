@@ -1,5 +1,4 @@
-# Othello
-Variant Othello Game
+# Variant Othello Game
 In this variant version, some positions on the board will be unplayable(2 center squares along the bottom row). There are 5 different starting positions that Player can choose at the beginning of the game.
 
 # Features
